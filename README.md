@@ -1,2 +1,3 @@
-# LEARN_AND_DEVELOPMENT
-Materials for L&amp;D
+# Learning and development (L&D)
+
+### Materials for Learning and development (L&D)
