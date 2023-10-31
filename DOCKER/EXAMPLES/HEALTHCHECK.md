@@ -46,4 +46,8 @@ To help debug failing probes, any output text (UTF-8 encoded) that the command w
 
 When the health status of a container changes, a health_status event is generated with the new status.
 
-reF: https://docs.docker.com/engine/reference/builder/
+References: 
+
+https://docs.docker.com/engine/reference/builder/
+
+
