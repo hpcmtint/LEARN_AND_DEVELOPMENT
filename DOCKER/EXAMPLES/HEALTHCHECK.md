@@ -10,7 +10,7 @@ When a container has a healthcheck specified, it has a health status in addition
 
 The options that can appear before CMD are:
 ```yaml
--- interval=DURATION (default: 30s)
+--interval=DURATION (default: 30s)
 --timeout=DURATION (default: 30s)
 --start-period=DURATION (default: 0s)
 --start-interval=DURATION (default: 5s)
